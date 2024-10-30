@@ -11,3 +11,5 @@ Your task is to create a fully responsive blogging website that meets the follow
 5) Layout: The header and footer should remain static in the layout (i.e., they must be part of a shared layout file).
 
 6) Responsiveness: Ensure the design is fully responsive, providing a smooth experience.
+
+deployed url = https://blog-assignment-beta.vercel.app/
